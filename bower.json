@@ -1,0 +1,25 @@
+{
+  "name": "angular-amap-toolbar",
+  "main": "angular-amap-toolbar.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "AngularJS directive for Amap toolbar",
+  "keywords": [
+    "angular",
+    "amap"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-amap-toolbar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-amap-map": "L42y/angular-amap-map#~0.1.0"
+  }
+}

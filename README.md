@@ -1,5 +1,11 @@
 # [angular](https://angularjs.org)-[amap](http://developer.amap.com)-[toolbar](http://developer.amap.com/api/javascript-api/reference/plugin/#AMap.ToolBar)
 
+## Dependencies
+
+* [angular-amap](https://github.com/L42y/angular-amap)
+
+* [angular-amap-map](https://github.com/L42y/angular-amap-map)
+
 ## Installation
 
 1. `bower install --save angular-amap-toolbar`

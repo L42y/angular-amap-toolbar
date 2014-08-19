@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular-amap-map": "L42y/angular-amap-map#~0.1.0"
+    "angular-amap": "L42y/angular-amap#~0.1.0",
+    "angular-amap-map": "L42y/angular-amap-map#~0.2.0"
   }
 }
